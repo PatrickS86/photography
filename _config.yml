@@ -3,7 +3,7 @@ baseurl: "https://speters.nl"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "1"
+google_analytics: "G-T4DKT1T9N9"
 
 # UI configs
 title: "Photography by Patrick Speters"
