@@ -87,6 +87,12 @@ layout: default
                                 </a>
                             </li>
                         {% endif %}
+                        {% if site.social_urls.email %}
+                        <li>
+                            <a href="{{ site.social_urls.email }}" class="icon fa-solid fa-envelope">
+                                <span class="label">Email</span>
+                            </a>
+                        </li>
                     </ul>
                 </section>
                 <p class="copyright">
